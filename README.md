@@ -1,2 +1,2 @@
 # TzReferenceManagemet
-Doc and reference managememt tools and method
+Doc and tools of reference managememt tools
